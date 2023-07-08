@@ -1,0 +1,15 @@
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\bin\Debug\net6.0\Practice_Labs2.exe
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\bin\Debug\net6.0\Practice_Labs2.deps.json
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\bin\Debug\net6.0\Practice_Labs2.runtimeconfig.json
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\bin\Debug\net6.0\Practice_Labs2.dll
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\bin\Debug\net6.0\Practice_Labs2.pdb
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\Practice_Labs2.csproj.AssemblyReference.cache
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\Practice_Labs2.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\Practice_Labs2.AssemblyInfoInputs.cache
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\Practice_Labs2.AssemblyInfo.cs
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\Practice_Labs2.csproj.CoreCompileInputs.cache
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\Practice_Labs2.dll
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\refint\Practice_Labs2.dll
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\Practice_Labs2.pdb
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\Practice_Labs2.genruntimeconfig.cache
+D:\education\institute\Labs\institute_practice_C#\Practice_Labs2\obj\Debug\net6.0\ref\Practice_Labs2.dll

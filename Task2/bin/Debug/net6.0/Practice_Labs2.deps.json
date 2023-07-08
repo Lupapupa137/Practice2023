@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practice_Labs2/1.0.0": {
+        "runtime": {
+          "Practice_Labs2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice_Labs2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
