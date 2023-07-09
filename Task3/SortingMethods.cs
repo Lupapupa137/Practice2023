@@ -15,6 +15,9 @@ namespace PracticeLabs3
                                   Comparison<T> comparer,
                                   IncreaseDecrease direction)
         {
+            if (array == null)
+                throw new ArgumentNullException(nameof(array));
+
             var size =  array.Length;
 
             for (var i = 1; i < size; i++)
@@ -39,6 +42,9 @@ namespace PracticeLabs3
                                   Comparison<T> comparer,
                                   IncreaseDecrease direction)
         {
+            if (array == null)
+                throw new ArgumentNullException(nameof(array));
+
             for (int i = 0; i < array.Length - 1; i++)
             { 
                 int min = i;
@@ -63,6 +69,9 @@ namespace PracticeLabs3
                                   Comparison<T> comparer,
                                   IncreaseDecrease direction)
         {
+            if (array == null)
+                throw new ArgumentNullException(nameof(array));
+
             var size = array.Length;
 
             for (var i = size / 2 - 1; i >= 0; i--)
@@ -84,6 +93,9 @@ namespace PracticeLabs3
                                   Comparison<T> comparer,
                                   IncreaseDecrease direction)
         {
+            if (array == null)
+                throw new ArgumentNullException(nameof(array));
+
             return QSortAdd(array, 0, array.Length - 1, direction, comparer);
         }
 
@@ -92,7 +104,8 @@ namespace PracticeLabs3
                                   Comparison<T> comparer,
                                   IncreaseDecrease direction)
         {
-            if (array == null) throw new ArgumentNullException(nameof(array));
+            if (array == null) 
+                throw new ArgumentNullException(nameof(array));
 
             return MergeSortAdd(array, 0, array.Length - 1, direction, comparer);
         }
